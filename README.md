@@ -1,5 +1,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/kurotych/count.svg)
 
 <!--
 **kurotych/kurotych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
